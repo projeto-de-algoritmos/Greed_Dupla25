@@ -1,45 +1,76 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greed_Dupla25
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 3<br>
+**Conteúdo da Disciplina**: Algoritmos ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0101617  |  Guilherme de Morais Richter |
+| 18/0102613  |  Ítalo Fernandes Sales de Serra |
+
+## Apresentação
+
+Clique no link para assistir à apresentação: <i>ainda não disponível</i>
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto tem o objetivo de solucionar problemas de competição do nível <b>hard</b> do juiz online <b>LeetCode</b>.
+
+Os problemas selecionados foram:
+
+<b>1)</b> - Earliest possible day of full bloom - <b>hard</b> - link: https://leetcode.com/problems/earliest-possible-day-of-full-bloom/
+
+<b>2)</b> - Super washing machines - <b>hard</b> - link: https://leetcode.com/problems/super-washing-machines/
+
+<b>3)</b> - Maximum number of tasks you can assign - <b>hard</b> - link: https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+<b>Screenshot do problema Earliest possible day of full bloom.</b>
+![Menu inicial](assets/Earliest_Possible_Day_of_Full_Bloom.png)
+
+<b>Accepted do problema Earliest possible day of full bloom.</b>
+![Menu inicial](assets/(submit)Earliest_Possible_Day_of_Full_Bloom.png)
+
+<b>Screenshot do problema Super washing machines.</b>
+![Menu inicial](assets/Super_Washing_Machines.png)
+
+<b>Accepted do problema Super washing machines.</b>
+![Menu inicial](assets/(submit)Super_Washing_Machines.png)
+
+<b>Screenshot de Maximum number of tasks you can assign.</b>
+![Menu inicial](assets/Maximum_Number_of_Tasks_You_Can_Assign.png)
+
+<b>Accepted de Maximum number of tasks you can assign.</b>
+![Menu inicial](assets/(submit)Maximum_Number_of_Tasks_You_Can_Assign.png)
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+**Linguagem**: C e Python<br>
+**Framework**: Não possui<br>
+
+Para se ter os arquivos na sua máquina, é necessário seguir o seguinte passo:
+
+- Clonar o nosso repositório do GitHub para a sua máquina, digitando no terminal (necessário ter o Git instalado):
+
+```python
+git clone https://github.com/projeto-de-algoritmos/Greed_Dupla25.git
+```
+
+Não é necessário instalar linguagem ou framework, pois os algoritmos podem ser executados em seu próprio juiz online de origem.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+Como este projeto se trata de exercícios de um juiz online, ao entrar na página de cada problema, como por exemplo, a do Earliest possible day of full bloom (link: https://leetcode.com/problems/earliest-possible-day-of-full-bloom/), temos a seguinte interface:
+
+<b>Exemplo de submissão.</b>
+![Menu inicial](assets/exemplo.png)
+
+No exemplo acima, basta copiar o código-fonte do arquivo Earliest_Possible_Day_of_Full_Bloom.c, selecionar a linguagem que ele está escrito, no caso C, e em seguida clicar no botão Submit, no canto inferior direito.
+
+Seguindo esse passo para os outros dois problemas, é possível verificar o funcionamento de todo o projeto.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
-
-
-
+Não há outras observações.

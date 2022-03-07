@@ -9,6 +9,7 @@ def findMinMoves(machines):
     for i in range(tam):
         soma += machines[i]
 
+    # caso em que o print é -1, no sentido que é impossível dividir em pares o números total de roupas
     if soma % tam != 0:
         return -1
 
@@ -28,9 +29,7 @@ def findMinMoves(machines):
         # considerando o valor absoluto porque o saldo geral pode estar negativo ou positivo
         # porem isso não importa no efeito de comparação, já que as trocas podem ser de saída ou entrada de roupas
 
-        # nessa condição, meu saldo atual passa a ser o mais importante, que influencia de
-        # forma no meu número de trocas
-
+        # nessa condição, meu saldo atual passa a ser o mais importante, que influencia de forma direta no meu número de trocas
         if saldo_atual > abs(saldo_geral):
             if saldo_atual > trocas:
                 trocas = saldo_atual
