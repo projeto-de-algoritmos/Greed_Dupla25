@@ -11,7 +11,9 @@
 
 ## Apresentação
 
-Clique no link para assistir à apresentação: <i>ainda não disponível</i>
+Faça o download do vídeo na pasta <b>apresentacao</b>.
+
+Ou clique no link para assistir à apresentação no youtube: https://youtu.be/lB0jszmZikU
 
 ## Sobre 
 Este projeto tem o objetivo de solucionar problemas de competição do nível <b>hard</b> do juiz online <b>LeetCode</b>.
